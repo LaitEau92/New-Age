@@ -1,9 +1,6 @@
 # New-Age
 
 
-New Age
-
-
 New Age est un exosquelette d’amélioration de capacités d’une personne dans le monde du « Metaverse » et permet à son utilisateur de s’adapter parfaitement à son environnement quelque soit la situation. 
 Son utilisation permet d’effectuer des actions que personne n’aurait imaginé possible. 
 
